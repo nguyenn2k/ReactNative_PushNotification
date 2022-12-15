@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130882804568",
+    "project_id": "reactnative06-7b897",
+    "storage_bucket": "reactnative06-7b897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130882804568:android:0106fbce046ef5471fa32d",
+        "android_client_info": {
+          "package_name": "com.reactnative_demonotificationrn06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130882804568-vud68h0vd7si1p1ot2t934euq1lfogvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEL0Qh3hrQJOE1bTrQ6nSolMBBWAk6bc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130882804568-vud68h0vd7si1p1ot2t934euq1lfogvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
